@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.20",
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "google-auth-library": "^10.4.0",
+    "node-fetch": "^3.3.2",
+    "pino": "^10.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
